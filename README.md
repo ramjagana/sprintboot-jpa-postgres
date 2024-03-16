@@ -7,7 +7,6 @@ This example has integrations of following spring modules
 2. Spring Web module
 3. Spring JPA
 
-
 @SpringBootApplication is a convenience annotation that adds all of the following:
 
 @Configuration: Tags the class as a source of bean definitions for the application context.
